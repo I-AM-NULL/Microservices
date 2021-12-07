@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.example.demo.Properties.ApplicationProperties",
+      "sourceType": "com.example.demo.Properties.ApplicationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "message",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.Properties.ApplicationProperties"
+    }
+  ],
+  "hints": []
+}
